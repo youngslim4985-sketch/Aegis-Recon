@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Recon AI",
+  "description": "AI-powered cybersecurity reconnaissance platform using Gemini with Google Search grounding to automate threat surface analysis and OSINT gathering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
